@@ -1,1 +1,1 @@
-# CySecuriX-Website
+# CySecuriX
